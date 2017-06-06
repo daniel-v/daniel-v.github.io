@@ -22,7 +22,7 @@ html, body {
     background-color: #fafafa;
 }
 
-mm-appbar {
+skawa-appbar {
     background: var(--default-primary-color);
     color: var(--text-primary-color);
 }
